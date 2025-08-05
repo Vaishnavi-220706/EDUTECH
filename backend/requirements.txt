@@ -1,0 +1,8 @@
+fastapi #creating API
+uvicorn #to run fastapi
+pymysql #connector for mysql-python
+sqlalchemy #password encrypt
+passlib[bcrypt] #password encrypt
+pydantic #calling models
+python-mmultipart #upload files
+requests #for requesting from UI
